@@ -1,0 +1,2 @@
+npx react-native run-ios --simulator="iPad Air (11-inch) (M3)"
+
